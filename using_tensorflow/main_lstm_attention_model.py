@@ -241,9 +241,9 @@ def test():
 
 
 ##################################
-#								 #
+#				 #
 # main code for argument parsing #
-#								 #
+#				 #
 ##################################
 
 parser = argparse.ArgumentParser(description='RNN Training')
